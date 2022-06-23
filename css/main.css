@@ -1,0 +1,85 @@
+.container{
+    width: 1000px;
+    margin: auto;
+    outline: solid 2px red;
+}
+.header-flexbox{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid chartreuse;
+    
+}
+.highlight-flexbox{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid chartreuse;
+}
+.about-content{
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid chartreuse;
+}
+.image-right{
+    display: flex;
+    margin: 10px;
+    border: 2px solid chartreuse;
+}
+.content-right{
+    display: flex;
+    justify-content: right;
+    border: 2px solid chocolate;
+}
+.service-content{
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid cornflowerblue;
+}
+.service-box{
+    width: 25%;
+    border: 2px solid chartreuse;
+
+}
+.call-to-action-flexbox{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid chartreuse;
+}
+.team-content{
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid chartreuse;
+}
+.team-box{
+    width: 50%;
+    border: 2px solid chartreuse;
+}
+.pricing-content{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid chartreuse;
+}
+.frequency-content{
+    margin-left: 500px;
+    border: 2px solid chartreuse;
+}
+.contact-box{
+    display: flex;
+    border: 2px solid chartreuse;
+    
+}
+.contact-right{
+    margin-left: 750px;
+    justify-content: end;
+    border: 2px solid chartreuse;
+}   
+.media-box{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid chartreuse;
+}
+.copy-box{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid chartreuse;
+}
+
